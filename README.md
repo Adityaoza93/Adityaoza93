@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Android , MERN**
+- 💬 Ask me about **Android and Web development**
 
 - 📫 How to reach me **aditya.oza@vit.edu.in**
 
